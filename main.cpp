@@ -4,7 +4,6 @@ using namespace std;
 int main() {
     int countOperations, x = 0;
     
-    
     cin >> countOperations;
     while (countOperations--) {  
         string str;
